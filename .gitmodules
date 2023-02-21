@@ -1,0 +1,6 @@
+[submodule "Propery-way-of-using-git-via-submodules"]
+	path = Propery-way-of-using-git-via-submodules
+	url = https://github.com/zain-nabi/Propery-way-of-using-git-via-submodules
+[submodule "Clothes/Propery-way-of-using-git-via-submodules"]
+	path = Clothes/Propery-way-of-using-git-via-submodules
+	url = https://github.com/zain-nabi/Propery-way-of-using-git-via-submodules
